@@ -97,7 +97,7 @@ HC-SR04 ECHO
 
 | Component | Connection |
 |---|---|
-| LED anode | Pico GP20 through 330 ohm resistor |
+| LED anode | Pico GP20 through 220 ohm resistor |
 | LED cathode | GND |
 
 The LED turns on when an obstacle is detected.
