@@ -130,6 +130,8 @@ The LED turns on when an obstacle is detected.
 
 ## Demo
 
+![Obstacle avoidance demo](images/20260616_153821_1-ezgif.com-resize.gif)
+
 ## Project Status
 
 Basic movement and ultrasonic obstacle avoidance are working.
